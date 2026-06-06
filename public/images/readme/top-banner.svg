@@ -1,0 +1,37 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Work Gallery banner</title>
+  <desc id="desc">Modern black, cream, and lime portfolio banner for a GitHub repository gallery.</desc>
+  <rect width="1400" height="420" rx="42" fill="#0B0B0B"/>
+  <circle cx="1180" cy="-30" r="230" fill="#C9FF3D" opacity="0.95"/>
+  <circle cx="120" cy="330" r="160" fill="#F7F3EA" opacity="0.07"/>
+  <path d="M0 318C174 275 276 369 435 326C596 283 655 165 840 186C1012 205 1087 312 1400 243V420H0V318Z" fill="#F7F3EA" opacity="0.055"/>
+  <g transform="translate(78 76)">
+    <rect x="0" y="0" width="104" height="104" rx="32" fill="#C9FF3D"/>
+    <path d="M28 55.5C28 42.5 38.5 32 51.5 32H73V53.5C73 66.5 62.5 77 49.5 77H28V55.5Z" fill="#0B0B0B"/>
+    <path d="M35 42H64" stroke="#C9FF3D" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+    <path d="M35 54H58" stroke="#C9FF3D" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+  </g>
+  <text x="78" y="230" fill="#F7F3EA" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial" font-size="76" font-weight="900" letter-spacing="-3">GitHub Work Gallery</text>
+  <text x="80" y="288" fill="#C9FF3D" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial" font-size="30" font-weight="750" letter-spacing="0.2">⚡ React + Vite portfolio • 🧠 Auto repo categories • 🖼️ SVG previews • 📱 Online-only PWA</text>
+  <g transform="translate(80 328)">
+    <rect width="174" height="46" rx="23" fill="#F7F3EA" fill-opacity="0.12" stroke="#F7F3EA" stroke-opacity="0.15"/>
+    <text x="24" y="31" fill="#F7F3EA" font-family="Inter, ui-sans-serif, system-ui" font-size="18" font-weight="800">🚀 Modern UI</text>
+  </g>
+  <g transform="translate(272 328)">
+    <rect width="198" height="46" rx="23" fill="#F7F3EA" fill-opacity="0.12" stroke="#F7F3EA" stroke-opacity="0.15"/>
+    <text x="24" y="31" fill="#F7F3EA" font-family="Inter, ui-sans-serif, system-ui" font-size="18" font-weight="800">📘 GitHub README</text>
+  </g>
+  <g transform="translate(492 328)">
+    <rect width="184" height="46" rx="23" fill="#F7F3EA" fill-opacity="0.12" stroke="#F7F3EA" stroke-opacity="0.15"/>
+    <text x="24" y="31" fill="#F7F3EA" font-family="Inter, ui-sans-serif, system-ui" font-size="18" font-weight="800">🌐 GitHub Pages</text>
+  </g>
+  <g transform="translate(930 112)">
+    <rect width="330" height="210" rx="28" fill="#F7F3EA"/>
+    <rect x="25" y="26" width="132" height="20" rx="10" fill="#0B0B0B" opacity="0.88"/>
+    <rect x="25" y="66" width="280" height="16" rx="8" fill="#0B0B0B" opacity="0.18"/>
+    <rect x="25" y="96" width="230" height="16" rx="8" fill="#0B0B0B" opacity="0.18"/>
+    <rect x="25" y="136" width="86" height="38" rx="19" fill="#C9FF3D"/>
+    <rect x="126" y="136" width="86" height="38" rx="19" fill="#0B0B0B" opacity="0.9"/>
+    <rect x="227" y="136" width="78" height="38" rx="19" fill="#0B0B0B" opacity="0.12"/>
+  </g>
+</svg>
